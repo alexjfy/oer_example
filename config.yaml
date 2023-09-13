@@ -50,7 +50,7 @@ docusaurus:
     config_meta:
       title: Intro matematica
       url: http://alexjfy.github.io/
-      baseUrl: /oer-example/
+      baseUrl: /oer_example/
       onBrokenLinks: warn
       onBrokenMarkdownLinks: warn
     config_socials:
