@@ -49,7 +49,7 @@ docusaurus:
       - template-chapter-template-topic: /build/make_assets/chapters/template-chapter/template-topic/slides/_site
     config_meta:
       title: Intro matematica
-      url: http://vladnastase.github.io/
+      url: http://alexjfy.github.io/
       baseUrl: /intro-matematica/
       onBrokenLinks: warn
       onBrokenMarkdownLinks: warn
